@@ -150,3 +150,6 @@ Cross-origin requests are limited to `GET`, `POST`, and `OPTIONS` unless more ar
 ## WebSocket Keep Alive
 
 Ping frames are sent to each client at the configured interval. If a pong is not received within `WS_PONG_WAIT`, the connection is closed.
+
+## License
+This project is licensed under the terms of the MIT license.
